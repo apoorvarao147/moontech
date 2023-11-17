@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.7925137c.css",
-    "main.js": "/static/js/main.ed713ba4.js",
-    "static/js/787.8e072d6b.chunk.js": "/static/js/787.8e072d6b.chunk.js",
-    "static/media/1.png": "/static/media/1.9741230b4b4fe8213efa.png",
-    "static/media/4.jpg": "/static/media/4.9bae92981bff135650c7.jpg",
-    "static/media/3.jpg": "/static/media/3.f2d5b741b06a522a8eb7.jpg",
-    "static/media/2.webp": "/static/media/2.f9561efff3bd3330d3b9.webp",
-    "index.html": "/index.html",
-    "main.7925137c.css.map": "/static/css/main.7925137c.css.map",
-    "main.ed713ba4.js.map": "/static/js/main.ed713ba4.js.map",
-    "787.8e072d6b.chunk.js.map": "/static/js/787.8e072d6b.chunk.js.map"
+    "main.css": "/moontech/static/css/main.0ff93baa.css",
+    "main.js": "/moontech/static/js/main.c51961aa.js",
+    "static/js/787.8e072d6b.chunk.js": "/moontech/static/js/787.8e072d6b.chunk.js",
+    "static/media/1.png": "/moontech/static/media/1.9741230b4b4fe8213efa.png",
+    "static/media/4.jpg": "/moontech/static/media/4.9bae92981bff135650c7.jpg",
+    "static/media/3.jpg": "/moontech/static/media/3.f2d5b741b06a522a8eb7.jpg",
+    "static/media/2.webp": "/moontech/static/media/2.f9561efff3bd3330d3b9.webp",
+    "index.html": "/moontech/index.html",
+    "main.0ff93baa.css.map": "/moontech/static/css/main.0ff93baa.css.map",
+    "main.c51961aa.js.map": "/moontech/static/js/main.c51961aa.js.map",
+    "787.8e072d6b.chunk.js.map": "/moontech/static/js/787.8e072d6b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7925137c.css",
-    "static/js/main.ed713ba4.js"
+    "static/css/main.0ff93baa.css",
+    "static/js/main.c51961aa.js"
   ]
 }
