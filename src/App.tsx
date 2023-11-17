@@ -6,6 +6,8 @@ import Footer from "./components/Footer";
 import Contact from "./components/Contact";
 import Services from "./components/Services";
 
+import "./styles/mediaquery.scss";
+
 function App() {
   return (
     <Router>
